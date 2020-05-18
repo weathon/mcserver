@@ -2,5 +2,6 @@ theme: jekyll-theme-cayman
 title: [Weathon Anarchy Minecraft® Server]
 description: [A Free Anarchy Minecraft Server (Java Edition)]
 markdown: redcarpet
+google_analytics: UA-166972044-1
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
