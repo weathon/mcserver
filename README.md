@@ -11,6 +11,7 @@
   This is our open schedule:  
   <!--还有什么-->
   | Days        | Open Hours [Central (Daylight) Time]      |
+  | ---------|----------|
   | Monday to Friday      | 6PM to 9PM |
   | Saturday      | 8AM to 10PM      |
   | Sunday | 1PM to 9PM      | 
