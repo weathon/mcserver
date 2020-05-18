@@ -1,4 +1,4 @@
-# Weathon Anarchy Minecraft® Server
+title: [Weathon Anarchy Minecraft® Server]
 ## How to play
   Download 1.15.2 Minecraft® client from Minecraft official website, join our adress, then you can play. 
 ## Our adress
