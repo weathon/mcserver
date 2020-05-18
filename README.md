@@ -5,6 +5,6 @@
   **Via IP adress:** *\*\*.\*\*.\*\*.\*\**
 ## Server Physical Location
   North America  
-  **(We do not recommand Mainland-China user directly)**
+  **(We do not recommand Mainland-China user connect directly)**
 ## Open Hours
   Because we are tighted of funds, we do not open it full-day.
