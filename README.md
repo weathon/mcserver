@@ -1,3 +1,4 @@
+# Weathon Minecraft Server
 ## How to play
   Download 1.15.2 Minecraft® client from Minecraft official website, join our adress, then you can play. 
 ## Our adress
@@ -38,5 +39,8 @@
   If we have time changed, we might but also might not post it in our Minecraft server.  
   **From 5/17/2020 to 5/20/2020, we will run our server full-timely**
 ## Connect Us
-**E-mail:** wguo575@cfsknights.org
-**YouTube Chanel:** Cheese's Tech
+**E-mail:** wguo575@cfsknights.org 
+**YouTube Chanel:** Cheese's Tech 
+## Join/help us
+For some reason, we cannot accept cash donations. But we are welcome that you can offer your network server, other network resources (Like domains, proxy, or anti-DDOS nodes), or even just your knowledge! (We needs help in cybersecurity, server O&M, and translation) And we are also making a nonprofit software team on www.weathon.top. (you might need to change the website language in the menu bar) Please email us if you want to help us!
+We are looking forward to you join us.
