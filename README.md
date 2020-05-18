@@ -35,7 +35,8 @@
   </tr>
 </table>
   
-  If we have time changed, we might but also might not post it in our Minecraft server.
+  If we have time changed, we might but also might not post it in our Minecraft server.  
+  **From 5/17/2020 to 5/20/2020, we will run our server full-timely**
 ## Connect Us
 **E-mail:** wguo575@cfsknights.org
 **YouTube Chanel:** Cheese's Tech
