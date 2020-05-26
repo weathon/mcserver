@@ -1,8 +1,8 @@
 # Weathon Minecraft Server
 ## How to play
-  Download 1.15.2 Minecraft® client from Minecraft official website, join our adress, then you can play. 
+  Download 1.16 20w21a Minecraft® client from Minecraft official website, join our adress, then you can play. 
 ## Our adress
-  **Via domain:** *mcserver.weathon.top*  (We are using DDNS, so if you find out you cannot connect to our server, maybe clear DNS cache or wait for around 5 min to try again, if you have any questions, pleas email us)
+  **Via domain:** *apps.weathon.top*  (We are using DDNS, so if you find out you cannot connect to our server, maybe clear DNS cache or wait for around 5 min to try again, if you have any questions, pleas email us)
   **Via IP adress:** *\*\*.\*\*.\*\*.\*\**
 ## Server Physical Location
   North America  
